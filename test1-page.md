@@ -5,18 +5,22 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/04/13/icon_256x256.png"
+  navigation:
+  - link: ''
+    link_text: Nav 1
+  - link: ''
+    link_text: Nav 2
   cta:
     url: ''
-    button_text: ''
+    button_text: Do it!
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2020/04/13/peter-daanverhoeven-DSC02210.jpg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: Going down!
   content: ''
   cta:
     enabled: false

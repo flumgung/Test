@@ -34,6 +34,5 @@ page_sections:
   col_2:
     headline: ''
     content: ''
-published: false
 
 ---

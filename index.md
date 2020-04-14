@@ -75,6 +75,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 4-column-footer
+  block: footer-2
+  col_2: asdfadsf
+  col_3: fgdhgfhjgfh
+  col_4: hjklhjljk
+  image: ''
 
 ---
 foo bar

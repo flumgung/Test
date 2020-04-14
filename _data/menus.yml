@@ -1,6 +1,10 @@
 ---
 main:
+- identifier: ''
+  url: ''
+  weight: ''
+  title: ''
 - identifier: home
   url: "/"
-  weight: 1
+  weight: "1"
   title: Home

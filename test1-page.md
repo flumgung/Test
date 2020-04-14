@@ -34,5 +34,14 @@ page_sections:
   col_2:
     headline: ''
     content: ''
+- template: simple-footer
+  block: footer-1
+  content: adsfasdf
+- template: 4-column-footer
+  block: footer-2
+  col_2: qwerty
+  col_3: ASD
+  col_4: "&lt;ZCX"
+  image: ''
 
 ---
